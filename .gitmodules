@@ -1,0 +1,3 @@
+[submodule "comfy-house"]
+	path = comfy-house
+	url = git@github.com:ghzya/comfy-house.git
